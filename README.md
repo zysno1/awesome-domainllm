@@ -1,40 +1,38 @@
-# awesome-domainllm
-
 # 行业模型测评工具
 
 
 
 # 行业模型
 
-## DoctorGLM：
+**DoctorGLM**
 
 https://github.com/xionghonglin/DoctorGLM
 ​github.com/xionghonglin/DoctorGLM
 
 简介：基于 ChatGLM-6B的中文问诊模型，通过中文医疗对话数据集进行微调，实现了包括lora、p-tuningv2等微调及部署。该项目在知乎上也有相关大介绍，具体见https://zhuanlan.zhihu.com/p/622649076。
 
-## XrayGLM，首个会看胸部X光片的中文多模态医学大模型：
+**XrayGLM 首个会看胸部X光片的中文多模态医学大模型**
 
 https://github.com/WangRongsheng/XrayGLM
 ​github.com/WangRongsheng/XrayGLM
 
 简介：该项目为促进中文领域医学多模态大模型的研究发展，发布了XrayGLM数据集及模型，其在医学影像诊断和多轮交互对话上显示出了非凡的潜力。
 
-## LaWGPT：基于中文法律知识的大语言模型
+**LaWGPT 基于中文法律知识的大语言模型**
 
 https://github.com/pengxiao-song/LaWGPT
 ​github.com/pengxiao-song/LaWGPT
 
 简介：该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
 
-## Cornucopia（聚宝盆）：基于中文金融知识的LLaMA微调模型地址：
+**Cornucopia（聚宝盆） 基于中文金融知识的LLaMA微调模型地址**
 
 https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 ​github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 
 简介：开源了经过中文金融知识指令精调/指令微调(Instruct-tuning) 的LLaMA-7B模型。通过中文金融公开数据+爬取的金融数据构建指令数据集，并在此基础上对LLaMA进行了指令微调，提高了 LLaMA 在金融领域的问答效果。基于相同的数据，后期还会利用GPT3.5 API构建高质量的数据集，另在中文知识图谱-金融上进一步扩充高质量的指令数据集
 
-## LexiLaw，中文法律大模型
+**LexiLaw 中文法律大模型**
 
 https://github.com/CSHaitao/LexiLaw
 ​github.com/CSHaitao/LexiLaw
