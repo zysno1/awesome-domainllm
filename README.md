@@ -1,7 +1,6 @@
 # 行业模型测评/排名
 
 
-
 # 中文行业大模型
 
 
@@ -61,7 +60,8 @@ https://github.com/stanford-crfm/BioMedLM
 
 简介：Model. BioMedLM is based on a HuggingFace GPT model (decoder-only transformer) with 2.7B parameters and a maximum context length of 1024 tokens. It uses a custom biomedical tokenizer trained on PubMed Abstracts with a vocabulary size of 28896.
 
-# 论文
+# 工具
 
+# 论文
 
 https://arxiv.org/abs/2303.17564
