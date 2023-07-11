@@ -16,7 +16,7 @@ https://github.com/FreedomIntelligence/HuatuoGPT
 
 https://github.com/xionghonglin/DoctorGLM
 
-简介：基于 ChatGLM-6B的中文问诊模型，通过中文医疗对话数据集进行微调，实现了包括lora、p-tuningv2等微调及部署。该项目在知乎上也有相关大介绍，具体见https://zhuanlan.zhihu.com/p/622649076。
+简介：基于 ChatGLM-6B的中文问诊模型，通过中文医疗对话数据集进行微调，实现了包括lora、p-tuningv2等微调及部署。该项目在知乎上也有相关大介绍，具体见https://zhuanlan.zhihu.com/p/622649076
 
 
 **XrayGLM 首个会看胸部X光片的中文多模态医学大模型**
