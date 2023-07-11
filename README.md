@@ -2,7 +2,7 @@
 
 
 
-# 行业大模型
+# 中文行业大模型
 
 
 **HuatuoGPT**
@@ -53,6 +53,13 @@ https://github.com/CSHaitao/LexiLaw
 
 简介：LexiLaw 是一个基于 ChatGLM-6B微调的中文法律大模型，通过在法律领域的数据集上进行微调。该模型旨在为法律从业者、学生和普通用户提供准确、可靠的法律咨询服务，包括具体法律问题的咨询，还是对法律条款、案例解析、法规解读等方面的查询。
 
+# 国外行业大模型
+
+**BioMedLM MosaicML基于HuggingFace GPT的微调模型**
+
+https://github.com/stanford-crfm/BioMedLM
+
+简介：Model. BioMedLM is based on a HuggingFace GPT model (decoder-only transformer) with 2.7B parameters and a maximum context length of 1024 tokens. It uses a custom biomedical tokenizer trained on PubMed Abstracts with a vocabulary size of 28896.
 
 # 论文
 
