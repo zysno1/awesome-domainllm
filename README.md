@@ -1,12 +1,14 @@
 # awesome-domainllm
 
+# 行业模型测评工具
+
+
+
 # 行业模型
 
 
 
-# 行业大模型测评
-
-Cornucopia（聚宝盆）：基于中文金融知识的LLaMA微调模型地址：
+1. Cornucopia（聚宝盆）：基于中文金融知识的LLaMA微调模型地址：
 
 https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 ​github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
