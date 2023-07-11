@@ -5,6 +5,13 @@
 # 行业大模型
 
 
+**HuatuoGPT**
+
+https://github.com/FreedomIntelligence/HuatuoGPT
+​
+简介：开源了经过中文医学指令精调/指令微调(Instruct-tuning)的一个GPT-like模型，开源了包括HuatuoGPT-SFT-data，HuatuoGPT model和Medical evaluation benchmark。
+
+
 **DoctorGLM**
 
 https://github.com/xionghonglin/DoctorGLM
